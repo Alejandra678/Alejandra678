@@ -1,5 +1,5 @@
 <h1 align="center">Holaaa 👋, Me llamo Alejandra Cortés</h1>
-<h3 align="center">Soy una Full Stack Developer apasionada por el mundo web en Madrid</h3>
+<h3 align="center">Soy Full Stack Developer apasionada por el mundo web en Madrid</h3>
 
 - 🌱 Estoy aprendiendo sobre Data Science **Pandas, Numpy, Machine Learning, MongoDB**
 
